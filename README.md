@@ -52,9 +52,9 @@ background:#f48fb1;
 <h1>Costos y presupuestos</h1>
 
 <div class="contenido">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130190-45308b2b-0e87-4edf-8071-022420bb61d3.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T182201Z&X-Amz-Expires=300&X-Amz-Signature=724c3a51fc4bbdb1eb07cabcb468d51d093604c80268e84bf564c9b67158f31e&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130187-c85c056e-7e90-4c88-858f-bab46333b46c.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T183756Z&X-Amz-Expires=300&X-Amz-Signature=b5f1cb7ddb26fe31c54a2e56cc662fc96fe586abf27e09b33c6f9a42292230ac&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
   
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130187-c85c056e-7e90-4c88-858f-bab46333b46c.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T182328Z&X-Amz-Expires=300&X-Amz-Signature=ffc08e6fdb84f06c2531c1548bb2a706c9327dba6cc00d748bb1389bd24c7b41&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130190-45308b2b-0e87-4edf-8071-022420bb61d3.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T183623Z&X-Amz-Expires=300&X-Amz-Signature=e7526911239eecedd123b271aefa4d510cb5e1f354ee621f1ca187fb9b7a048a&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130184-057ea484-ed4f-49a4-a586-58784b08c745.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T182442Z&X-Amz-Expires=300&X-Amz-Signature=98d37767d21ac7a5a8384ed170270cccb3208b29e9517b7092136d600aaf75fa&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
 
