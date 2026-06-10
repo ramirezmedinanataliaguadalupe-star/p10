@@ -52,11 +52,31 @@ background:#f48fb1;
 <h1>Costos y presupuestos</h1>
 
 <div class="contenido">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130190-45308b2b-0e87-4edf-8071-022420bb61d3.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T182201Z&X-Amz-Expires=300&X-Amz-Signature=724c3a51fc4bbdb1eb07cabcb468d51d093604c80268e84bf564c9b67158f31e&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
+  
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130187-c85c056e-7e90-4c88-858f-bab46333b46c.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T182328Z&X-Amz-Expires=300&X-Amz-Signature=ffc08e6fdb84f06c2531c1548bb2a706c9327dba6cc00d748bb1389bd24c7b41&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
 
-<p>
-AQUÍ VA TU INFORMACIÓN
-</p>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130184-057ea484-ed4f-49a4-a586-58784b08c745.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T182442Z&X-Amz-Expires=300&X-Amz-Signature=98d37767d21ac7a5a8384ed170270cccb3208b29e9517b7092136d600aaf75fa&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
 
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130180-ccdf79c9-a41f-4679-badf-170f0d17dfc1.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T182530Z&X-Amz-Expires=300&X-Amz-Signature=b46fd2b368a36339841ed0e9965b6270e64de7344e2815926775acc89c40bb6c&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
+
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130178-d4bd60c4-dc44-4434-9ce9-b4553a2d68e3.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T182536Z&X-Amz-Expires=300&X-Amz-Signature=5f391518c9c1ea21a48e4baecc280f87006636f182fb278ed1382708e06370a5&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
+
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130172-9d0bf4d1-090d-4759-a7e7-0e7ebeb61ea4.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T182544Z&X-Amz-Expires=300&X-Amz-Signature=f2f2cef25eec6ee4d9fa7cc787ddf195e34157e821fb0d3e4ee1bbf08b2cb3fe&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 </div>
 
 <a href="Proyecto final.html" class="volver">
