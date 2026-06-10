@@ -51,9 +51,6 @@ background:#f48fb1;
 
 <h1>Costos y presupuestos</h1>
 
-<div class="contenido">
-
-  
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130187-c85c056e-7e90-4c88-858f-bab46333b46c.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T234608Z&X-Amz-Expires=300&X-Amz-Signature=bef79891dd16594d9d95ced8602430ff1cd37e7139e03b52c9ecf58d501037d7&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
 
 
@@ -76,20 +73,6 @@ background:#f48fb1;
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/284715077/603130172-9d0bf4d1-090d-4759-a7e7-0e7ebeb61ea4.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260610T182544Z&X-Amz-Expires=300&X-Amz-Signature=f2f2cef25eec6ee4d9fa7cc787ddf195e34157e821fb0d3e4ee1bbf08b2cb3fe&X-Amz-SignedHeaders=host&response-content-type=image%2Fjpeg" width="300">
 
-
-
-
-
-
-
-
-
-
-
-
-
-  
-</div>
 
 <a href="Proyecto final.html" class="volver">
 Volver al inicio
